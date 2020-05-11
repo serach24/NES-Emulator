@@ -2,9 +2,9 @@
 > A Java emulator for Nintendo Entertainment System (NES) hardware.
 
 
-![](https://github.com/serach24/NES-Emulator/tree/master/img/SuperMarioBros.png)
-![](https://github.com/serach24/NES-Emulator/tree/master/img/Zelda.png)
-![](https://github.com/serach24/NES-Emulator/tree/master/img/Contra.png)
+![](https://github.com/serach24/NES-Emulator/blob/master/img/SuperMarioBros.png)
+![](https://github.com/serach24/NES-Emulator/blob/master/img/Zelda.png)
+![](https://github.com/serach24/NES-Emulator/blob/master/img/Contra.png)
 
 ## Controls
 Select: Q
